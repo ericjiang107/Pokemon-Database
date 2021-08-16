@@ -1,0 +1,26 @@
+/* shifting to center */
+.col-md-6{
+    padding-top: 250px;
+}
+
+/* Spacing for the label */
+.label-card {
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+
+/* Spacing for the Submit button */
+.submit-button {
+    padding-top: 20px;
+}
+
+/* Center everything in the table */
+.table {
+    text-align: center;
+    font-size: 20px;
+}
+
+/* Moving the table */
+.table-move {
+    padding-top: 80px;
+}
