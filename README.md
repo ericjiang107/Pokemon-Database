@@ -4,3 +4,5 @@ This is another side project that focuses on enhancing my ability to parse throu
 
 This webstie focuses on the concept of a Pokedex where users can search up Pokemon with their name which will show what
 the pokemon looks like, their type, as well as their abilities. 
+
+Day 2: Added changes with background changes based on chosen pokemon name.
