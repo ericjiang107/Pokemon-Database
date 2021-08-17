@@ -34,6 +34,9 @@ function getData() {
         let pic = (info.sprites.front_default)
         document.getElementById('imageSource').src = pic
         // get specific image based on search using getElementById('image source id').src 
+
+        // Background-image
+        document.body.style.backgroundImage = `url(${pic})`;
     })
 }
 

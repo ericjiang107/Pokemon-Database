@@ -24,3 +24,8 @@
 .table-move {
     padding-top: 80px;
 }
+
+/* Syntax to prevent repeat of background images */
+/* body {
+    background-repeat: no-repeat;
+} */
